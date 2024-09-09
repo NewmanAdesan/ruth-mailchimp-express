@@ -1,0 +1,18 @@
+{
+  "name": "mailchimp-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@mailchimp/mailchimp_marketing": "^3.0.80",
+    "axios": "^1.7.7",
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
